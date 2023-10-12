@@ -12,7 +12,7 @@ const Icon = ({ className }: IconProps) => {
 					'text-2xl font-bold dark:text-white uppercase',
 					className
 				)}>
-				Astro <span className='text-brand-400'>Spectra</span>
+				Astra <span className='text-brand-400'>View</span>
 			</h1>
 		</Link>
 	);
